@@ -1,4 +1,4 @@
-const auth = require("../graphql/resolvers/auth");
+// const auth = require("../graphql/resolvers/auth");
 const jwt = require('jsonwebtoken');
 
 module.exports = (req, res, next) => {
